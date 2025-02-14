@@ -20,3 +20,8 @@ This repository contains **Jupyter Notebooks** that provide hands-on learning fo
  ┣ 📜 matplotlib_visualizations.ipynb  
  ┣ 📜 README.md  
  ┗ 📂 datasets (if applicable)  
+
+
+## 📌 Notebook on Kaggle  
+- You can also view and run the Pandas Learning notebook on Kaggle:  
+🔗 [Pandas Learning Notebook on Kaggle](https://www.kaggle.com/code/abdallahprogrammer/pandas-learning)
