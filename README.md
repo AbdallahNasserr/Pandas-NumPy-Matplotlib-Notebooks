@@ -25,3 +25,4 @@ This repository contains **Jupyter Notebooks** that provide hands-on learning fo
 ## 📌 Notebook on Kaggle  
 - You can also view and run the Pandas Learning notebook on Kaggle:  
 🔗 [Pandas Learning Notebook on Kaggle](https://www.kaggle.com/code/abdallahprogrammer/pandas-learning)
+🔗 [Numpy Learning Notebook on Kaggle](https://www.kaggle.com/code/abdallahprogrammer/numpy-learning)
