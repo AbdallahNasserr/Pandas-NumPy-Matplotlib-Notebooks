@@ -1,5 +1,8 @@
 # 📊 Data Analysis with Python: Pandas, NumPy & Matplotlib  
 
+<img width="787" alt="Image" src="https://github.com/user-attachments/assets/1b998743-4ff0-445b-ab80-3b0ef2a862be" />
+
+
 This repository contains **Jupyter Notebooks** that provide hands-on learning for three essential Python libraries used in data analysis:  
 
 - 🐼 **Pandas** – For data manipulation and analysis  
